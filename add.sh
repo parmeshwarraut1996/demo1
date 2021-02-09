@@ -1,13 +1,13 @@
 #!/bin/bash -x
 
 
-sum=1;
+add;
 
 
 read -p "Enter the value of num1 " c
 read -p "Enter the value of " b
 
-sum=$(( $e + $b ))
+add=$(( $e + $b ))
 
 
-echo "sum= $sum"
+echo "sum= $add"
