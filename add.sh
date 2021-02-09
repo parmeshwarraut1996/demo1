@@ -4,8 +4,8 @@
 
 
 read -p "Enter the value of num1 " c
-read -p "Enter the value of " b
+read -p "Enter the value of " f
 
-sum=$(( $c + $b ))
+sum=$(( $c + $f ))
 
 echo "sum= $sum"
